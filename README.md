@@ -1,5 +1,6 @@
 
 ## 프로토타입
+ - https://swyp-web16th-team2-prototype.vercel.app/
 
 React + TypeScript + Vite로 만든 모임 장소 결정 프로토타입입니다.
 
